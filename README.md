@@ -2,6 +2,10 @@
 
 ###
 
+<h4 align="left">Olá! Me chamo Adryan, sou um estudante de Engenharia da computação de 19 anos e atualmente estou me especializando na área de desenvolvimento backend com Java e SpringBoot.</h4>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -18,17 +22,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdryanCALS&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdryanCALS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./dist/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="./dist/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/AdryanCALS/AdryanCALS/output/snake.svg" alt="Snake animation" />
 
 ###
