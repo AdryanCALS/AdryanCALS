@@ -2,7 +2,11 @@
 
 ###
 
-<h4 align="left">Olá! Me chamo Adryan, sou um estudante de Engenharia da computação de 19 anos e atualmente estou me especializando na área de desenvolvimento backend com Java e SpringBoot.</h4>
+<p align="center">Computer Engineering Student at UPE. Developing my abilities in Data analysis/science and Machine Learning with python paired with Pandas, Scikit-learn and Keras.</p>
+
+###
+
+<h4 align="center"></h4>
 
 ###
 
@@ -16,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
 </div>
 
 ###
