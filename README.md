@@ -10,7 +10,7 @@ Currently, I am looking to expand my knowledge in Data Science, Machine Learning
 - Student of **Computer Engineering** at the University of Pernambuco (UPE).
 - Currently working as a **Data Analysis Intern** at the State Information Technology Agency (ATI-PE), building pipelines and strategic BI reports.
 - Strong interest in **Machine Learning**, **Data Analysis**, and the development of automated decision logic.
-- Currently exploring and studying: Advanced predictive models and AI frameworks (such as LangChain).
+- Currently exploring and studying: Deep Learning frameworks such as PyTorch.
 
 ### Technologies and Tools
 
